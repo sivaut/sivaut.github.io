@@ -1,7 +1,7 @@
-Sivabalan "Siva" Umapathy
-sivaut@gmail.com
-339 707 5730
-Lexington, MA
+o Sivabalan "Siva" Umapathy
+o sivaut@gmail.com
+o 339 707 5730
+o Lexington, MA
 
 +++ Role +++
 I have a blended skill set of Consulting, Product envisioning & Product Architecture.
@@ -14,33 +14,51 @@ My core strength lies in system designing, UX architecture and engineering of so
 
 +++ Skills +++
 - Engage in multi-month projects. Sometimes extended to years.
+
 - Creating & managing Product Management & Solution architecture artifacts
+
 - Creating solutions & architecture for complex connected ecosystems that involve IoT devices, identifiable physical objects, automated assembly systems, Web/Mobile interfaces and Backend systems such as PLM, Inventory, Routing systems etc.,
+
 - Applying system design concepts and service design approach to architect full stack solutions
+
 - Process design expertise
+
+
 - Advanced expertise in UX Architecture & Visual Design
+
 - Experience with hardened environments for connecting IoT devices and integrating IT systems ( Manufacturing, Aerospace, Federal)
+
 - Designing and implementing customer/reusable data interfaces for backend system communication in several contexts ( PLM, manufacturing, Retail, Asset management)
+
 - Designing and implementing API gateway & Microservices for web/mobile applications
+
 - Designing API gateway for exposing end-user application data (to be consumed by 3rd party web/mobile apps) (in exploration stage)
-
-
 
 +++ Team Management & Interaction +++
 -Roles directly managed: Software/Hardware architects, Field Service Managers, Frontend & Backend developers, UI designers
+
 -Max team size managed: Project with 6 direct reports, 6 indirect report, 15 technician contracts, 2 partner contacts
+
 -Internal Stakeholder Interaction: CTO, VP of Sales, Product Managers
+
 -Client Stakeholder Interaction: Business Owners (VP, CTO, Directors), Logistics Managers, Factory/Store operation managers, IT teams
 
 
 +++ Technology & Tools +++
 -Programming: C#, Java, Javascript
+
 -Platforms: Azure (web app, API app, IoT hub), Windows Mobile development, Android Development
+
 -Front end : Angular, CSS, HTML
+
 -Integration : SOAP, REST, JMS + ActiveMQ , ZeroMQ
+
 -Web/app containers: Tomcat, Node.js
+
 -Design: Axure, Photoshop, Mural, MS Office, Visio
+
 -Product Management: Jira, Confluence, ASANA
+
 -Hobby Exposure: Voice Interface with Alexa, AWS Serverless, React
 
 +++ Of Note +++
